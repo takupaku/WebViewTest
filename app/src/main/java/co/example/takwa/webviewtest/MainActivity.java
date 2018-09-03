@@ -122,7 +122,7 @@ public class MainActivity extends AppCompatActivity {
                     webView.goForward();
 
                 }
-                //forword
+                //forword here
                 break;
             case R.id.aboutUsId:
                 Toast.makeText(this,"about us",Toast.LENGTH_SHORT).show();
